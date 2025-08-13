@@ -13,5 +13,5 @@ Desenvolver um sistema web de um mercado usando apenas HTML
 - uma página sobre os contatos
 
 
-#https://rafa-rezende.github.io/Projeto-FSW1/
+https://rafa-rezende.github.io/Projeto-FSW1/
 # Rafael Rezende Rodrigues PUCRS 
